@@ -1,0 +1,477 @@
+MODEL 1
+REMARK VINA RESULT:      -5.5      0.000      0.000
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -34.114 100.967  13.931  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -34.340 101.251  12.460  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -33.291 101.890  14.620  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -32.542 102.699  15.294  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -33.175 103.790  16.103  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -31.159 102.438  15.429  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -29.983 102.216  15.540  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -28.080 100.958  15.167  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -27.859 102.878  16.390  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -28.574 101.958  15.676  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -28.252 103.705  16.823  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -26.476 102.650  16.550  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -26.425 101.675  16.647  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -35.530  99.099  14.317  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -34.475  99.673  14.587  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -33.560  99.054  15.568  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -31.695  98.013  17.424  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -33.936  98.838  16.890  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -32.253  98.783  15.170  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -33.015  98.313  17.796  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -31.342  98.257  16.087  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -30.771  97.463  18.347  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -31.161  96.390  19.247  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -29.579  98.197  18.741  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.4      2.485      5.283
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -33.282  98.108  18.912  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -33.880  98.958  20.014  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -31.871  98.137  18.804  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -30.587  98.133  18.659  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -29.778  97.034  19.277  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -29.971  99.039  17.765  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -29.445  99.806  17.004  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -27.761 101.265  16.385  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -29.475 100.935  14.908  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -28.819 100.723  16.088  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -30.353 100.502  14.649  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -28.895 101.836  13.990  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -28.050 101.394  13.754  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -34.394  96.299  17.847  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -34.089  97.492  17.815  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -34.546  98.311  16.675  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -35.327  99.770  14.378  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -35.892  98.418  16.338  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -33.584  98.902  15.859  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -36.271  99.148  15.212  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -33.976  99.631  14.736  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -35.720 100.526  13.246  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -36.970 100.245  12.557  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -34.748 101.283  12.475  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.2      3.315      5.820
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -35.935 101.761  14.046  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -36.181 103.168  14.552  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -36.766 100.754  14.592  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -37.494  99.796  15.063  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -38.697  99.337  14.295  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -37.053  99.054  16.183  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -36.682  98.423  17.136  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -36.207  98.176  19.385  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -35.854  96.374  18.023  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -36.234  97.663  18.273  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -35.862  95.937  17.109  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -35.400  95.602  19.113  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -35.714  96.115  19.889  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -34.733 101.459  12.020  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -34.734 101.369  13.248  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -33.518 100.876  13.925  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -31.184 100.089  15.319  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -33.530  99.735  14.720  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -32.359 101.645  13.843  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -32.373  99.345  15.395  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -31.208 101.244  14.522  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -30.007  99.677  15.993  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -30.036  98.577  16.944  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -28.862 100.564  16.111  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.9     14.539     17.369
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -37.465 103.074   2.816  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -36.310 102.129   2.556  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -38.760 102.513   2.707  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -39.964 102.052   2.614  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -40.683 101.612   3.852  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -40.667 102.147   1.391  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -41.268 102.230   0.353  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -41.950 103.377  -1.535  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -42.669 101.220  -1.286  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -41.981 102.333  -0.892  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -42.711 100.353  -0.764  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -43.387 101.289  -2.498  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -44.133 100.670  -2.346  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -38.270 105.276   3.200  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -37.314 104.558   2.905  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -36.004 105.190   2.651  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -33.414 106.254   2.243  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -35.551 105.452   1.362  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -35.165 105.428   3.737  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -34.278 105.988   1.168  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -33.894 105.965   3.530  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -32.128 106.816   2.039  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -31.578 107.784   2.974  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -31.505 106.803   0.726  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.9     18.109     20.301
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -17.599  91.190   2.962  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -16.340  90.433   2.592  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -18.482  90.527   3.849  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -19.324  89.964   4.651  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -19.283  90.291   6.112  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -20.398  89.204   4.132  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -21.309  88.558   3.688  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -22.290  87.222   2.076  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -23.521  87.712   3.940  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -22.398  87.778   3.163  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -23.630  88.172   4.836  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -24.612  86.965   3.450  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -25.380  87.543   3.649  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -18.315  92.403   1.049  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -18.060  92.423   2.254  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -18.230  93.689   2.995  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -18.737  96.098   4.391  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -17.856  93.816   4.329  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -18.881  94.743   2.360  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -18.098  95.010   5.008  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -19.116  95.933   3.049  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -18.963  97.314   5.082  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -19.953  97.398   6.144  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -18.568  98.589   4.504  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.8      2.609      5.200
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -35.742  99.609  15.996  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -36.626 100.736  16.491  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -35.432  98.604  16.944  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -35.114  97.665  17.772  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -35.901  96.391  17.780  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -33.918  97.755  18.522  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -32.903  97.833  19.161  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -31.712  98.353  21.073  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -30.550  97.497  19.300  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -31.688  97.919  19.927  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -30.511  97.143  18.351  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -29.338  97.576  20.019  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -29.290  96.702  20.463  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -35.553  99.367  13.640  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -34.996  99.651  14.702  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -33.574 100.049  14.674  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -30.893 100.953  14.730  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -32.573  99.235  15.192  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -33.254 101.322  14.209  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -31.251  99.682  15.206  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -31.929 101.757  14.227  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -29.546 101.393  14.730  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -28.584 100.854  15.677  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -29.171 102.660  14.123  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.7      3.706      6.456
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -35.448  98.352  19.591  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -35.523  99.552  20.514  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -34.146  97.883  19.291  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -32.981  97.419  18.980  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -32.423  96.255  19.741  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -32.327  97.871  17.811  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -31.767  98.254  16.819  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -30.044  98.191  15.278  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -31.711  99.721  14.943  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -31.100  98.707  15.627  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -32.578 100.164  15.221  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -31.079 100.196  13.775  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -31.705 100.879  13.450  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -37.273  96.881  19.204  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -36.612  97.840  18.806  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -36.997  98.490  17.537  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -37.725  99.570  15.024  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -38.234  99.106  17.372  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -36.132  98.382  16.451  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -38.581  99.647  16.134  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -36.491  98.929  15.218  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -38.077 100.138  13.774  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -37.134 100.153  12.667  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -39.173 101.087  13.665  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.7     14.658     16.374
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -41.930 101.514   4.074  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -41.943 100.111   4.645  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -41.016 101.744   3.018  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -40.194 102.008   2.056  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -40.678 101.961   0.639  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -38.912 102.530   2.341  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -37.822 102.976   2.582  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -36.036 103.372   3.996  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -35.888 104.161   1.855  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -36.519 103.511   2.878  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -36.275 104.291   0.928  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -34.613 104.706   2.113  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -34.014 104.104   1.619  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -42.067 103.784   4.762  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -42.605 102.677   4.725  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -43.944 102.519   5.329  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -46.465 102.042   6.523  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -44.338 103.249   6.446  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -44.786 101.534   4.819  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -45.587 103.017   7.023  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -46.033 101.312   5.405  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -47.740 101.825   7.103  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -48.957 102.107   6.360  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -47.902 101.741   8.546  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.7     26.492     28.566
+REMARK  Name = Trichostatin_A.pdbqt.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_15
+REMARK    2  A    between atoms: C_4  and  C_6
+REMARK    3  A    between atoms: C_7  and  C_10
+REMARK    4  A    between atoms: N_9  and  O_12
+REMARK    5  A    between atoms: C_15  and  C_16
+REMARK    6  A    between atoms: C_17  and  N_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -21.257 100.639 -10.276  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -20.310 101.807 -10.460  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -22.608 100.972 -10.017  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -23.851 101.222  -9.771  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -24.841 101.216 -10.896  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4   6
+ATOM      6  C   UNL     1     -24.308 101.302  -8.435  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -24.700 101.373  -7.301  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O   UNL     1     -26.073 100.713  -5.562  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -24.556 102.372  -5.144  0.00  0.00    +0.000 N 
+ATOM     10  C   UNL     1     -25.170 101.449  -5.943  0.00  0.00    +0.000 C 
+ATOM     11  H   UNL     1     -23.814 102.993  -5.445  0.00  0.00    +0.000 HD
+BRANCH   9  12
+ATOM     12  O   UNL     1     -24.998 102.480  -3.809  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -25.043 103.451  -3.672  0.00  0.00    +0.000 HD
+ENDBRANCH   9  12
+ENDBRANCH   7  10
+ENDBRANCH   4   6
+BRANCH   1  15
+ATOM     14  O   UNL     1     -20.716  98.732  -8.967  0.00  0.00    +0.000 OA
+ATOM     15  C   UNL     1     -20.800  99.228 -10.091  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1     -20.454  98.397 -11.261  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1     -19.856  96.659 -13.413  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1     -21.044  98.596 -12.505  0.00  0.00    +0.000 A 
+ATOM     19  C   UNL     1     -19.590  97.320 -11.074  0.00  0.00    +0.000 A 
+ATOM     20  C   UNL     1     -20.736  97.743 -13.565  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1     -19.289  96.475 -12.142  0.00  0.00    +0.000 A 
+BRANCH  17  22
+ATOM     22  N   UNL     1     -19.534  95.807 -14.500  0.00  0.00    +0.000 N 
+ATOM     23  C   UNL     1     -20.453  95.635 -15.613  0.00  0.00    +0.000 C 
+ATOM     24  C   UNL     1     -18.528  94.767 -14.363  0.00  0.00    +0.000 C 
+ENDBRANCH  17  22
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 6
+ENDMDL

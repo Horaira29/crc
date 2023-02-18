@@ -1,0 +1,25 @@
+REMARK  Name = 971_OxalicAcid.pdbqt.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_3
+REMARK    2  A    between atoms: C_2  and  C_6
+REMARK    3  A    between atoms: C_6  and  O_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1       1.475   1.004   0.000  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1       0.780   0.007   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  O   UNL     1       1.308  -1.225   0.000  0.00  0.00    +0.000 OA
+ATOM      4  H   UNL     1       2.275  -1.077   0.000  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      5  O   UNL     1      -1.475  -1.004   0.000  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1      -0.780  -0.007   0.000  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  O   UNL     1      -1.308   1.225   0.000  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1      -2.275   1.077   0.000  0.00  0.00    +0.000 HD
+ENDBRANCH   6   7
+ENDBRANCH   2   6
+TORSDOF 3

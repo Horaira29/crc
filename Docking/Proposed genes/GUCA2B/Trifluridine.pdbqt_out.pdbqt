@@ -1,0 +1,441 @@
+MODEL 1
+REMARK VINA RESULT:      -6.2      0.000      0.000
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1       6.453 -13.097  13.228  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1       5.358  -8.908  11.705  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1       4.177 -12.644  12.755  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1       5.844 -11.023  12.455  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1       3.374 -11.654  12.316  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       5.556 -12.351  12.853  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       3.539 -10.430  11.940  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       4.966 -10.026  12.010  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1       6.818 -10.762  12.509  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1       3.628 -13.851  13.082  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1       3.234 -14.776  12.109  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1       2.694 -15.876  12.788  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1       2.757 -15.631  14.207  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1       3.334 -14.358  14.363  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1       1.824 -16.159  15.053  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1       1.184 -15.482  15.333  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1       2.007 -16.911  12.124  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1       1.357 -17.889  11.501  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1       0.446 -17.615  11.303  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1       2.552  -9.433  11.502  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1       2.739  -9.045  10.216  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1       1.283  -9.921  11.567  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1       2.565  -8.317  12.272  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.5     26.305     28.098
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -23.094  -2.333  11.807  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -21.220  -6.252  10.328  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1     -21.920  -2.299   9.750  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1     -22.142  -4.264  11.010  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1     -21.234  -3.110   8.922  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -22.447  -2.884  10.924  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -20.904  -4.359   8.916  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1     -21.414  -5.063  10.119  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1     -22.495  -4.730  11.834  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1     -22.063  -0.981   9.423  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1     -22.897  -0.560   8.382  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1     -22.784   0.834   8.308  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1     -21.867   1.287   9.323  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1     -21.424   0.135   9.998  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1     -21.105   2.405   9.133  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1     -21.543   3.193   9.500  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1     -23.323   1.580   7.241  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1     -23.831   2.280   6.232  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1     -23.484   3.188   6.243  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1     -20.112  -5.124   7.942  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1     -19.863  -4.423   6.808  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1     -18.895  -5.471   8.446  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1     -20.713  -6.284   7.581  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.3     18.487     20.478
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -7.693  -1.065  22.631  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1      -8.706  -4.661  19.966  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1      -9.245  -0.744  20.870  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1      -8.247  -2.828  21.269  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1      -9.849  -1.416  19.870  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -8.346  -1.477  21.679  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -9.821  -2.627  19.422  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -8.896  -3.478  20.211  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1      -7.614  -3.395  21.815  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1      -9.521   0.582  21.043  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1     -10.122   1.069  22.209  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1     -10.281   2.451  22.039  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1      -9.767   2.828  20.746  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1      -9.308   1.643  20.142  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1     -10.297   3.883  20.059  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1     -11.266   3.815  20.009  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1     -11.040   3.239  22.925  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1     -11.753   3.983  23.765  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1     -12.348   3.421  24.289  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1     -10.524  -3.230  18.282  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1     -11.072  -2.303  17.457  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1      -9.684  -3.972  17.508  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1     -11.517  -4.069  18.669  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.1     18.320     20.446
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -7.572  -0.487  22.406  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1      -8.722  -4.332  20.181  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1      -9.228  -0.344  20.719  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1      -8.196  -2.378  21.264  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1      -9.887  -1.112  19.829  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -8.278  -0.992  21.541  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -9.879  -2.362  19.504  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -8.904  -3.130  20.318  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1      -7.528  -2.888  21.824  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1      -9.500   0.993  20.775  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1      -9.056   1.884  19.791  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1      -9.486   3.161  20.174  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1     -10.212   3.061  21.415  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1     -10.198   1.701  21.773  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1     -10.213   4.090  22.313  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1      -9.441   4.668  22.183  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1      -9.043   4.332  19.529  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1      -8.626   5.435  18.916  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1      -8.858   5.403  17.972  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1     -10.646  -3.076  18.474  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1     -11.510  -3.979  19.001  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1     -11.400  -2.223  17.727  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1      -9.849  -3.738  17.598  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.1     17.497     18.623
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -7.490  -3.723  24.186  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -10.503  -5.425  21.171  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1      -7.774  -2.581  22.131  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1      -8.989  -4.521  22.641  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1      -8.477  -2.649  20.983  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -8.017  -3.594  23.087  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -9.367  -3.444  20.490  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -9.689  -4.549  21.428  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1      -9.197  -5.267  23.289  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1      -6.879  -1.565  22.304  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1      -5.514  -1.803  22.499  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1      -4.903  -0.554  22.668  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1      -5.905   0.478  22.572  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1      -7.129  -0.180  22.355  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1      -5.776   1.649  23.262  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1      -4.843   1.830  23.472  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1      -3.567  -0.417  23.092  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1      -2.305  -0.293  23.491  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1      -2.116  -0.920  24.209  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1     -10.045  -3.415  19.186  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1     -11.364  -3.714  19.278  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1      -9.976  -2.183  18.612  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1      -9.493  -4.276  18.295  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.0     26.303     27.671
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -23.332  -1.129   7.284  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -21.993   2.889   9.051  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1     -21.844  -1.163   9.126  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1     -22.633   0.849   8.217  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1     -21.189  -0.331   9.961  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -22.659  -0.564   8.139  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -21.100   0.949  10.106  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1     -21.927   1.669   9.105  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1     -23.200   1.326   7.530  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1     -21.683  -2.511   9.270  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1     -21.910  -3.161  10.488  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1     -21.628  -4.518  10.285  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1     -21.223  -4.715   8.916  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1     -21.257  -3.447   8.307  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1     -20.343  -5.704   8.578  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1     -19.602  -5.742   9.207  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1     -21.546  -5.440  11.347  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1     -21.469  -6.306  12.352  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1     -21.848  -5.919  13.159  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1     -20.311   1.740  11.060  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1     -21.086   2.518  11.857  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1     -19.590   0.944  11.897  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1     -19.413   2.550  10.447  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.9      1.453      2.122
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1       5.160 -12.956  15.412  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1       4.753  -8.987  13.144  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1       3.686 -12.878  13.559  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1       4.920 -11.001  14.232  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1       3.231 -12.029  12.617  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       4.626 -12.363  14.482  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       3.433 -10.789  12.315  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       4.411 -10.157  13.236  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1       5.587 -10.584  14.867  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1       3.223 -14.162  13.578  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1       2.737 -14.759  14.746  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1       2.375 -16.071  14.413  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1       2.639 -16.291  13.013  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1       3.175 -15.089  12.518  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1       2.976 -17.530  12.547  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1       2.904 -18.199  13.251  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1       2.040 -17.033  15.386  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1       1.719 -17.940  16.303  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1       2.424 -18.604  16.381  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1       2.837  -9.964  11.256  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1       2.055 -10.683  10.414  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1       2.038  -8.988  11.770  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1       3.770  -9.329  10.505  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.9     17.389     19.008
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -14.262 -16.065   3.230  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1      -9.685 -15.779   3.413  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1     -13.306 -14.221   4.368  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1     -11.979 -15.862   3.348  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1     -12.108 -13.696   4.692  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -13.295 -15.422   3.623  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -10.874 -14.020   4.494  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1     -10.759 -15.279   3.716  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1     -11.916 -16.720   2.818  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1     -14.444 -13.584   4.773  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1     -14.940 -13.705   6.076  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1     -16.119 -12.951   6.135  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1     -16.358 -12.349   4.847  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1     -15.304 -12.767   4.014  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1     -17.629 -12.103   4.411  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1     -18.106 -12.933   4.238  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1     -16.999 -13.010   7.233  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1     -17.833 -13.070   8.267  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1     -17.977 -12.181   8.634  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1      -9.639 -13.358   4.937  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1      -8.863 -12.956   3.899  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1      -9.903 -12.238   5.665  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1      -8.879 -14.152   5.731  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.9     26.343     28.137
+REMARK  Name = Trifluridine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C1*_10
+REMARK    2  A    between atoms: C_7  and  C_20
+REMARK    3  A    between atoms: C4*_12  and  C5*_15
+REMARK    4  A    between atoms: C3*_13  and  O3*_18
+REMARK    5  A    between atoms: C5*_15  and  O5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -23.524  -3.143  11.964  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -21.317  -6.696  10.076  0.00  0.00    +0.000 OA
+ATOM      3  N   UNL     1     -22.336  -2.771   9.949  0.00  0.00    +0.000 N 
+ATOM      4  N   UNL     1     -22.407  -4.883  10.967  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1     -21.576  -3.421   9.046  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -22.825  -3.532  11.036  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -21.144  -4.630   8.901  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1     -21.607  -5.510  10.003  0.00  0.00    +0.000 A 
+ATOM      9  H   UNL     1     -22.730  -5.470  11.723  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   3  10
+ATOM     10  C1* UNL     1     -22.583  -1.440   9.776  0.00  0.00    +0.000 A 
+ATOM     11  O4* UNL     1     -21.554  -0.495   9.710  0.00  0.00    +0.000 OA
+ATOM     12  C4* UNL     1     -22.160   0.758   9.557  0.00  0.00    +0.000 A 
+ATOM     13  C3* UNL     1     -23.591   0.588   9.524  0.00  0.00    +0.000 A 
+ATOM     14  C2* UNL     1     -23.829  -0.790   9.672  0.00  0.00    +0.000 A 
+BRANCH  13  15
+ATOM     15  O3* UNL     1     -24.426   1.565   9.989  0.00  0.00    +0.000 OA
+ATOM     16  H3* UNL     1     -24.708   2.155   9.269  0.00  0.00    +0.000 HD
+ENDBRANCH  13  15
+BRANCH  12  17
+ATOM     17  C5* UNL     1     -21.440   1.964   9.664  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  O5* UNL     1     -20.764   3.105   9.763  0.00  0.00    +0.000 OA
+ATOM     19  H5* UNL     1     -20.041   3.124   9.114  0.00  0.00    +0.000 HD
+ENDBRANCH  17  18
+ENDBRANCH  12  17
+ENDBRANCH   3  10
+BRANCH   7  20
+ATOM     20  C   UNL     1     -20.281  -5.208   7.861  0.00  0.00    +0.000 C 
+ATOM     21  F   UNL     1     -19.048  -5.528   8.326  0.00  0.00    +0.000 F 
+ATOM     22  F   UNL     1     -20.805  -6.360   7.357  0.00  0.00    +0.000 F 
+ATOM     23  F   UNL     1     -20.115  -4.377   6.803  0.00  0.00    +0.000 F 
+ENDBRANCH   7  20
+TORSDOF 5
+ENDMDL

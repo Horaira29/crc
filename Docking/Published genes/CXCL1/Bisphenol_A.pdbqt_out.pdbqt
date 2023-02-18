@@ -1,0 +1,378 @@
+MODEL 1
+REMARK VINA RESULT:      -5.6      0.000      0.000
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -6.528  -2.455 -19.689  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1      -6.374  -3.892 -19.076  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1      -6.302  -2.560 -21.239  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1      -7.948  -1.977 -19.351  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -8.536  -2.336 -18.125  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -9.829  -1.935 -17.794  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -10.555  -1.169 -18.698  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1     -10.008  -0.803 -19.922  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -8.715  -1.212 -20.242  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1     -11.821  -0.756 -18.405  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1     -11.809   0.206 -18.265  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1      -5.464  -1.487 -19.150  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1      -4.830  -1.752 -17.922  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1      -3.874  -0.887 -17.396  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1      -3.541   0.265 -18.097  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      -4.152   0.562 -19.310  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1      -5.109  -0.309 -19.824  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      -2.605   1.131 -17.614  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      -2.555   1.025 -16.648  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.6     11.741     15.917
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       8.245   1.431 -19.207  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1       8.414   2.989 -19.119  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       8.557   0.989 -20.681  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       9.238   0.819 -18.207  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       9.476   1.456 -16.976  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      10.384   0.939 -16.054  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      11.072  -0.229 -16.360  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      10.866  -0.881 -17.570  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1       9.958  -0.351 -18.485  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1      11.963  -0.766 -15.478  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1      11.725  -0.475 -14.581  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1       6.803   0.996 -18.909  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       6.339  -0.255 -19.356  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       5.033  -0.674 -19.119  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       4.166   0.164 -18.428  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       4.588   1.409 -17.977  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       5.896   1.818 -18.224  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       2.882  -0.216 -18.173  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       2.746  -1.110 -18.534  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.6     11.730     15.020
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       8.236   1.425 -19.257  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1       8.575   0.969 -20.720  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       8.359   2.989 -19.193  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       6.802   0.956 -18.965  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       5.928   1.782 -18.237  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       4.627   1.380 -17.939  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       4.187   0.134 -18.366  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       5.026  -0.712 -19.081  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1       6.326  -0.300 -19.370  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1       2.919  -0.289 -18.096  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1       2.296   0.412 -18.355  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1       9.234   0.859 -18.236  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       9.929  -0.331 -18.519  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1      10.828  -0.881 -17.608  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1      11.039  -0.243 -16.392  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      10.365   0.930 -16.077  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       9.466   1.469 -16.995  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      11.917  -0.751 -15.481  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      12.453  -0.020 -15.126  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.5     16.780     19.172
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      10.272   1.318 -19.910  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1       9.596   2.575 -20.563  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       9.328   0.084 -20.138  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1      11.629   1.131 -20.606  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      12.239  -0.137 -20.627  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      13.477  -0.338 -21.233  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      14.126   0.739 -21.825  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      13.557   2.006 -21.816  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      12.320   2.195 -21.204  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1      15.337   0.576 -22.431  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1      15.895   0.016 -21.864  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1      10.434   1.479 -18.392  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1      10.212   0.382 -17.541  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1      10.333   0.498 -16.158  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1      10.676   1.727 -15.607  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      10.896   2.834 -16.417  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1      10.769   2.706 -17.799  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      10.809   1.875 -14.258  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      10.527   2.774 -14.016  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.4     16.695     18.823
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      10.109   1.307 -19.953  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1       9.218   0.035 -20.179  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       9.356   2.544 -20.562  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1      10.303   1.451 -18.436  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      10.651   2.698 -17.888  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      10.853   2.860 -16.519  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      10.713   1.763 -15.678  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      10.378   0.514 -16.186  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      10.181   0.365 -17.557  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1      10.899   1.886 -14.332  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1      11.463   1.154 -14.029  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1      11.453   1.201 -20.687  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1      11.905   2.267 -21.486  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1      13.110   2.196 -22.179  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1      13.883   1.045 -22.083  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      13.465  -0.030 -21.308  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1      12.255   0.051 -20.622  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      15.072   0.944 -22.743  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      15.747   0.624 -22.119  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.4     13.847     17.927
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      10.349   0.261 -18.046  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1      10.666  -1.276 -18.008  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1      10.504   0.826 -16.589  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1      11.356   0.900 -19.014  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      12.032   0.099 -19.952  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      12.965   0.642 -20.833  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      13.237   2.003 -20.780  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      12.594   2.823 -19.861  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      11.665   2.267 -18.983  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1      14.141   2.568 -21.630  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1      14.045   2.154 -22.505  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1       8.901   0.535 -18.476  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       8.246   1.701 -18.040  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       6.927   1.971 -18.397  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       6.241   1.066 -19.198  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       6.854  -0.099 -19.641  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       8.173  -0.360 -19.275  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       4.951   1.303 -19.571  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       4.725   0.701 -20.302  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.4      1.477      2.288
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -6.358  -1.867 -20.560  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1      -5.545  -2.953 -21.349  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1      -6.969  -0.864 -21.602  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1      -7.452  -2.611 -19.778  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -7.387  -4.009 -19.640  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -8.371  -4.718 -18.953  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -9.442  -4.028 -18.397  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -9.541  -2.648 -18.521  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -8.552  -1.951 -19.213  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1     -10.419  -4.690 -17.715  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1     -10.064  -5.543 -17.413  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1      -5.457  -1.045 -19.627  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1      -5.060   0.253 -19.998  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1      -4.229   1.019 -19.184  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1      -3.779   0.488 -17.981  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      -4.146  -0.793 -17.587  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1      -4.975  -1.551 -18.411  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      -2.970   1.213 -17.158  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      -3.231   1.040 -16.236  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.2     20.908     23.185
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      11.500  11.233 -12.537  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1      10.396  11.505 -13.619  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1      11.956  12.616 -11.948  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1      10.860  10.341 -11.463  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      10.161   9.180 -11.840  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       9.553   8.357 -10.894  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       9.635   8.694  -9.549  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      10.311   9.838  -9.140  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      10.912  10.654 -10.097  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1       9.055   7.910  -8.596  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1       9.046   8.398  -7.755  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1      12.748  10.578 -13.146  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1      13.994  10.707 -12.506  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1      15.148  10.140 -13.040  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1      15.068   9.434 -14.235  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      13.855   9.292 -14.898  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1      12.708   9.867 -14.355  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      16.177   8.861 -14.783  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      15.987   8.645 -15.713  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.1     21.448     23.782
+REMARK  Name = Bisphenol_A.pdbqt.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_1  and  C_12
+REMARK    3  A    between atoms: C_7  and  O_10
+REMARK    4  A    between atoms: C_15  and  O_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       4.921   3.206   2.020  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1       5.852   2.030   2.484  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       4.658   4.136   3.258  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       5.666   3.948   0.900  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       6.716   4.829   1.218  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       7.401   5.531   0.229  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       7.035   5.362  -1.101  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       5.998   4.506  -1.451  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1       5.319   3.811  -0.452  0.00  0.00    +0.000 A 
+BRANCH   7  10
+ATOM     10  O   UNL     1       7.687   6.030  -2.095  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1       7.326   6.932  -2.150  0.00  0.00    +0.000 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   UNL     1       3.552   2.697   1.547  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       3.392   1.349   1.180  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       2.169   0.858   0.730  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       1.083   1.721   0.638  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       1.207   3.061   0.985  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       2.437   3.540   1.431  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      -0.130   1.273   0.207  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      -0.754   1.300   0.954  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   1  12
+TORSDOF 4
+ENDMDL

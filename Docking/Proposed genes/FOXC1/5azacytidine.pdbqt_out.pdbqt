@@ -1,0 +1,432 @@
+MODEL 1
+REMARK VINA RESULT:      -5.2      0.000      0.000
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -36.710 102.021  13.581  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -37.277  99.818  13.200  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -38.429 100.630  12.951  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -38.057 101.997  13.182  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -36.214 100.700  13.616  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -34.944 100.433  14.035  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -34.555  99.561  15.044  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -35.347  98.921  15.732  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -33.180  99.468  15.244  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -32.353 100.173  14.514  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -32.748 101.063  13.531  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -33.911 101.039  13.453  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -31.021 100.047  14.743  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -30.473 100.854  14.478  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -30.801  99.663  15.654  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -37.437  98.527  13.622  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -36.604  98.154  13.987  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -39.689 100.164  13.202  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -40.046  99.729  12.405  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -38.909 103.108  13.329  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -39.722 104.151  13.468  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -39.675 104.490  14.378  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.0      1.964      2.960
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -35.275  99.507  13.863  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -35.503  98.841  16.059  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -36.810  98.997  15.497  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -36.651  99.401  14.129  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -34.551  99.186  15.031  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -33.191  99.272  15.066  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -32.309  98.424  15.723  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -32.668  97.470  16.410  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -30.962  98.740  15.567  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -30.600  99.772  14.848  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -31.485 100.631  14.221  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -32.571 100.254  14.415  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -29.275 100.039  14.722  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -29.060 101.008  14.531  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -28.705  99.609  15.441  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -35.315  99.033  17.400  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -34.454  98.671  17.706  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -37.863  99.412  16.264  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -38.005  98.785  16.997  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -37.630  99.932  13.269  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -38.556 100.441  12.461  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -38.180 100.589  11.576  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.0     23.709     24.688
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -29.478  87.479  -5.290  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -27.819  85.902  -5.577  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -29.085  85.234  -5.598  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -30.106  86.229  -5.429  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -28.079  87.304  -5.360  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -27.227  88.354  -5.189  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -26.693  89.176  -6.174  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -26.909  89.026  -7.374  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -25.862  90.191  -5.707  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -25.627  90.322  -4.425  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -26.139  89.482  -3.452  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -26.822  88.689  -3.966  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -24.814  91.329  -4.017  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -24.348  91.159  -3.136  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -24.218  91.692  -4.751  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -26.708  85.232  -5.144  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -26.234  84.792  -5.883  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -29.220  83.960  -5.120  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -29.971  83.918  -4.499  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -31.463  86.026  -5.115  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -32.743  85.837  -4.809  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -32.978  86.361  -4.023  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.9      2.302      3.137
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -34.144 100.851  14.087  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -35.875  99.352  13.808  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -36.066 100.437  12.894  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -34.977 101.354  13.073  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -34.680  99.636  14.565  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -34.099  98.967  15.601  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -34.659  98.679  16.840  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -35.786  99.039  17.176  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -33.840  97.958  17.704  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -32.635  97.601  17.335  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -32.072  97.916  16.111  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -32.857  98.504  15.480  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -31.874  96.896  18.209  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -30.877  96.995  18.071  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -32.181  96.977  19.171  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -36.959  98.665  14.280  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -36.707  97.791  14.651  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -37.320 100.851  12.543  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -37.396 100.889  11.571  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -34.880 102.677  12.602  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -34.795 103.925  12.150  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -34.456 104.509  12.850  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.9      6.598      8.210
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -28.701 100.530  17.220  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -29.620 100.138  15.141  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -28.575 101.107  14.998  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -28.008 101.331  16.297  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -29.703  99.803  16.542  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -30.567  98.993  17.216  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -31.276  97.910  16.711  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -31.232  97.558  15.534  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -32.074  97.244  17.638  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -32.124  97.647  18.883  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -31.438  98.744  19.373  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -30.802  99.202  18.509  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -32.912  96.964  19.751  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -33.236  97.509  20.539  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -33.625  96.405  19.298  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -30.675 100.147  14.271  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -30.379 100.115  13.335  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -28.651 102.092  14.053  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -27.765 102.265  13.683  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -27.156 102.379  16.695  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -26.345 103.365  17.065  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -25.719 103.046  17.738  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.8      2.481      4.206
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -33.232 100.953  13.768  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -33.260  99.149  15.205  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -34.587  99.351  14.707  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -34.550 100.468  13.807  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -32.426 100.174  14.626  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -31.111 100.472  14.823  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -30.091  99.596  15.173  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -30.268  98.399  15.388  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -28.830 100.175  15.287  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -28.665 101.457  15.074  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -29.691 102.330  14.755  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -30.684 101.725  14.677  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -27.417 101.976  15.193  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -27.394 102.961  15.422  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -26.787 101.397  15.734  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -33.078  98.593  16.441  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -33.424  97.675  16.485  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -35.681  99.069  15.478  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -35.697  99.655  16.257  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -35.640 101.199  13.297  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -36.674 101.888  12.824  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -37.187 101.337  12.207  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.7      3.540      6.068
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -32.508 100.786  14.644  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -32.093  98.725  15.594  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -30.841  99.385  15.383  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -31.116 100.668  14.803  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -33.127  99.605  15.105  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -34.475  99.429  15.006  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -35.309  98.772  15.903  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -34.906  98.218  16.923  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -36.657  98.764  15.557  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -37.064  99.343  14.455  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -36.225  99.970  13.551  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -35.134  99.920  13.959  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -38.389  99.313  14.161  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -38.601  99.389  13.175  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -38.897  98.586  14.651  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -32.150  97.359  15.576  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -32.032  96.998  14.670  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -29.710  98.676  15.086  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -29.607  97.938  15.716  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -30.208 101.544  14.178  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -29.355 102.370  13.579  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -29.661 102.566  12.676  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.6     24.967     26.063
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -27.173  89.622  -5.802  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -26.122  87.990  -7.048  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -25.174  88.534  -6.124  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -25.845  89.539  -5.350  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -27.364  88.697  -6.851  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -28.552  88.617  -7.515  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -29.192  89.626  -8.224  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -28.759  90.773  -8.313  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -30.392  89.254  -8.824  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -30.847  88.033  -8.700  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -30.220  87.040  -7.968  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -29.229  87.470  -7.531  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -32.019  87.716  -9.307  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -32.519  86.950  -8.876  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -32.588  88.522  -9.536  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -25.690  87.478  -8.240  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -26.158  86.647  -8.474  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -23.847  88.623  -6.444  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -23.731  89.214  -7.210  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -25.265  90.520  -4.524  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -24.724  91.444  -3.736  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -23.827  91.660  -4.044  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.5     19.083     20.319
+REMARK  Name = 5azacytidine.pdbqt.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2*_2  and  O2*_16
+REMARK    2  A    between atoms: C3*_3  and  O3*_21
+REMARK    3  A    between atoms: C4*_4  and  C5*_18
+REMARK    4  A    between atoms: C1*_5  and  N_6
+REMARK    5  A    between atoms: C5*_18  and  O5*_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O4* UNL     1     -18.964  92.575  22.613  0.00  0.00    +0.000 OA
+ATOM      2  C2* UNL     1     -18.992  93.059  20.358  0.00  0.00    +0.000 A 
+ATOM      3  C3* UNL     1     -18.013  93.893  20.987  0.00  0.00    +0.000 A 
+ATOM      4  C4* UNL     1     -18.001  93.572  22.386  0.00  0.00    +0.000 A 
+ATOM      5  C1* UNL     1     -19.596  92.254  21.392  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N   UNL     1     -20.620  91.357  21.341  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1     -20.912  90.468  20.314  0.00  0.00    +0.000 A 
+ATOM      8  O   UNL     1     -20.271  90.405  19.267  0.00  0.00    +0.000 OA
+ATOM      9  N   UNL     1     -22.013  89.646  20.541  0.00  0.00    +0.000 NA
+ATOM     10  C   UNL     1     -22.696  89.742  21.654  0.00  0.00    +0.000 A 
+ATOM     11  N   UNL     1     -22.418  90.650  22.661  0.00  0.00    +0.000 NA
+ATOM     12  C   UNL     1     -21.475  91.264  22.358  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1     -23.759  88.917  21.832  0.00  0.00    +0.000 N 
+ATOM     14  H   UNL     1     -24.465  89.275  22.461  0.00  0.00    +0.000 HD
+ATOM     15  H   UNL     1     -24.116  88.523  20.970  0.00  0.00    +0.000 HD
+ENDBRANCH   5   6
+BRANCH   2  16
+ATOM     16  O2* UNL     1     -19.628  93.495  19.229  0.00  0.00    +0.000 OA
+ATOM     17  H2* UNL     1     -19.771  92.767  18.584  0.00  0.00    +0.000 HD
+ENDBRANCH   2  16
+BRANCH   3  18
+ATOM     18  O3* UNL     1     -17.757  95.153  20.524  0.00  0.00    +0.000 OA
+ATOM     19  H3* UNL     1     -18.139  95.263  19.633  0.00  0.00    +0.000 HD
+ENDBRANCH   3  18
+BRANCH   4  20
+ATOM     20  C5* UNL     1     -17.412  94.307  23.432  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O5* UNL     1     -16.850  95.005  24.414  0.00  0.00    +0.000 OA
+ATOM     22  H5* UNL     1     -16.559  95.872  24.082  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 5
+ENDMDL
